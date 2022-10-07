@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maksnawrocki
-- 👀 I’m interested in C# Programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on SadyyBot
+- 👀 I’m interested in LUA Programming
+- 🌱 I’m currently learning LUA
+- 💞️ I’m looking to collaborate on TruckesLife
 - 📫 How to reach me maksik.n@interia.pl
 
 <!---
